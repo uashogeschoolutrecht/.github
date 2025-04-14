@@ -28,8 +28,7 @@ Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee
 
 ### Toegang krijgen tot HU GitHub - Onderzoek
 
-<br>
-    <p><details>
+<p><details>
       <summary>:key: Ik ben onderzoeker bij de HU en ik wil toegang tot de <strong>GitHub voor onderzoek</strong>.</summary>
       <br>
       <ul><p>Om toegang te krijgen tot de <a href="https://github.com/uashogeschoolutrecht"> <strong>HU GitHub voor onderzoek</strong></a> stuur een mail naar 
@@ -53,13 +52,13 @@ Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee
       <a href="mailto:onderzoeksupport@hu.nl?subject=Externe%20partner%20toegang%20tot%20GitHub%20voor%20onderzoek"> onderzoeksupport@hu.nl</a>. </p>
       <p> Met in de mail uw github account/e-mailadres, naam, functie binnen het project en om welk project(en)/repositories het gaat vermelden. Benoem ook of er specifieke rollen moeten worden toegekend.</p>
       </ul></details>
-    </p>
-<br>
+</p>
+
 
 ### Github Educatie pakket
 <p>
 Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopilot, GitHub Codespaces klik dan <a href="https://github.com/education"><strong>hier</strong></a> en kies het bij behorende pakket.</p>
-<br>
-<strong> Er wordt gerwerkt aan een handleiding voor het aanvragen van GitHub Education pakket als HU medewerker, de handleiding zal binnenkort beschikbaar worden gemaakt. </strong>
+
+<details><summary> Hoe vraag ik het GitHub Education pakket aan</summary><strong> Er wordt gerwerkt aan een handleiding voor het aanvragen van GitHub Education pakket als HU medewerker, de handleiding zal binnenkort beschikbaar worden gemaakt. </strong></details>
 
 # Welcome to HU GitHub - Research!
