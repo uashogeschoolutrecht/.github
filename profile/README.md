@@ -69,3 +69,7 @@ Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopi
     </p>
 </a>
 <br>
+<p>At HU, we believe that research becomes stronger through collaboration and openness. <strong>HU GitHub – Research</strong> is the platform where our researchers, students, and partners work together on impactful projects. Through open access and transparent practices, we make knowledge accessible to everyone, with the goal of improving society.
+
+Do you have research you'd like to share? Or are you curious about what others are working on? Feel free to look around, join in, ask questions, or start your own project. Together, we make research open, relevant, and valuable for everyone.
+</p>
