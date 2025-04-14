@@ -21,7 +21,7 @@
 [For English click here!](#welcome-to-hu-github---research)
 </p>
 <p>
-Wij bij de HU geloven dat onderzoek sterker wordt door samenwerking en openheid. <strong>HU GitHub - Onderzoek</strong> is het platform waar onze onderzoekers, studenten en partners samen werken aan projecten met impact. Door open access en transparante werkwijzen maken we kennis toegankelijk voor iedereen, met als doel: het verbeteren van de samenleving.
+Bij de HU geloven we dat onderzoek sterker wordt door samenwerking en openheid. <strong>HU GitHub - Onderzoek</strong> is het platform waar onze onderzoekers, studenten en partners samen werken aan projecten met impact. Door open access en transparante werkwijzen maken we kennis toegankelijk voor iedereen, met als doel: het verbeteren van de samenleving.
 
 Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee bezig zijn? Kijk gerust rond, doe mee, stel vragen of start je eigen project. Samen maken we onderzoek open, relevant en van waarde voor iedereen.
 </p>
@@ -53,8 +53,13 @@ Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee
       <a href="mailto:onderzoeksupport@hu.nl?subject=Externe%20partner%20toegang%20tot%20GitHub%20voor%20onderzoek"> onderzoeksupport@hu.nl</a>. </p>
       <p> Met in de mail uw github account/e-mailadres, naam, functie binnen het project en om welk project(en)/repositories het gaat vermelden. Benoem ook of er specifieke rollen moeten worden toegekend.</p>
       </ul></details>
+    </p>
+<br>
 
-###
-
+### Github Educatie pakket
+<p>
+Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopilot, GitHub Codespaces klik dan <a href="https://github.com/education"><strong>hier</strong></a> en kies het bij behorende pakket.</p>
+<br>
+<strong> Er word gerwerkt aan een handleiding voor het aanvragen van GitHub Education pakket als HU medewerker, dit zal binnenkort beschikbaar worden gemaakt. </strong>
 
 # Welcome to HU GitHub - Research!
