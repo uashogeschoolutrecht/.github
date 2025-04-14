@@ -60,6 +60,6 @@ Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee
 <p>
 Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopilot, GitHub Codespaces klik dan <a href="https://github.com/education"><strong>hier</strong></a> en kies het bij behorende pakket.</p>
 <br>
-<strong> Er word gerwerkt aan een handleiding voor het aanvragen van GitHub Education pakket als HU medewerker, dit zal binnenkort beschikbaar worden gemaakt. </strong>
+<strong> Er wordt gerwerkt aan een handleiding voor het aanvragen van GitHub Education pakket als HU medewerker, de handleiding zal binnenkort beschikbaar worden gemaakt. </strong>
 
 # Welcome to HU GitHub - Research!
