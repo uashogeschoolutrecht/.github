@@ -1,4 +1,4 @@
-## Welkom bij de HU GitHub - onderzoek 👋
+# Welkom bij HU GitHub - Onderzoek!
 
 <!--
 
@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<a href="https://www.hu.nl/">
+    <p align="center">
+        <img width="90%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/Hu_logo_tekst.svg">
+    </p>
+</a>
