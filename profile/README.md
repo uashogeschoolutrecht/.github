@@ -12,7 +12,7 @@
 -->
 <a href="https://www.hu.nl/">
     <p align="center">
-        <img width="90%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/Hu_logo_tekst.svg">
+        <img width="70%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/Hu_logo_tekst.svg">
     </p>
 </a>
 <br>
@@ -65,7 +65,7 @@ Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopi
 
 <a href="https://www.internationalhu.com/">
     <p align="center">
-        <img width="90%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/HU_international_banner.png">
+        <img width="50%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/HU_international_banner.png">
     </p>
 </a>
 <br>
