@@ -21,7 +21,7 @@
 [For English click here!](#welcome-to-hu-github---research)
 </p>
 <p>
-Wij van de HU geloven dat onderzoek sterker wordt door samenwerking en openheid. <strong>HU GitHub - Onderzoek</strong> is het platform waar onze onderzoekers, studenten en partners samen werken aan projecten met impact. Door open access en transparante werkwijzen maken we kennis toegankelijk voor iedereen, met als doel: het verbeteren van de samenleving.
+Wij bij de HU geloven dat onderzoek sterker wordt door samenwerking en openheid. <strong>HU GitHub - Onderzoek</strong> is het platform waar onze onderzoekers, studenten en partners samen werken aan projecten met impact. Door open access en transparante werkwijzen maken we kennis toegankelijk voor iedereen, met als doel: het verbeteren van de samenleving.
 
 Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee bezig zijn? Kijk gerust rond, doe mee, stel vragen of start je eigen project. Samen maken we onderzoek open, relevant en van waarde voor iedereen.
 </p>
@@ -43,7 +43,7 @@ Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee
         <br>
         <ul><p>Om toegang te krijgen tot de <a href="https://github.com/uashogeschoolutrecht"> <strong>HU GitHub voor onderzoek</strong></a> vraag je je HU partner een mail te sturen naar 
       <a href="mailto:onderzoeksupport@hu.nl?subject=Externe%20partner%20toegang%20tot%20GitHub%20voor%20onderzoek"> onderzoeksupport@hu.nl</a>. </p>
-      <p> Met in de mail uw github account/e-mailadres, naam, functie binnen het project en om welk project(en)/repositories het gaat vermelden.</p>
+      <p> Vermeld in de mail uw github account/e-mailadres, naam, functie binnen het project, om welk project(en)/repositories het gaat en indien van toepassing het instituut van de partner.</p>
       </ul>
       </details>
     <br>
