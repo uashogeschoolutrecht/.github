@@ -62,11 +62,13 @@ Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopi
 <details><summary> Ik heb hulp nodig met het aanvragen van het GitHub Education pakket.</summary><strong> Er wordt gewerkt aan een handleiding voor het aanvragen van het GitHub Education pakket, de handleiding zal binnenkort beschikbaar worden gemaakt. </strong></details>
 
 <!-- ENGLISH VERSION BELOW -->
-# Welcome to HU GitHub - Research!
+<details><summary>
 
+# Welcome to HU GitHub - Research!
+</summary>
 <a href="https://www.internationalhu.com/">
     <p align="center">
-        <img width="50%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/HU_international_banner.png">
+        <img width="50%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/HUlogoENG">
     </p>
 </a>
 <br>
@@ -75,7 +77,9 @@ Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopi
 Do you have research you'd like to share? Or are you curious about what others are working on? Feel free to look around, join in, ask questions, or start your own project. Together, we make research open, relevant, and valuable for everyone.
 </p>
 
+
 ### Gain access to HU GitHub Research
+
 <p><details>
       <summary> :key: I am a researcher at HU and I want access to the <strong>GitHub for research</strong></summary> <br> <ul> <p>To gain access to the <a href="https://github.com/uashogeschoolutrecht"><strong>HU GitHub for research</strong></a>, send an email to <a href="mailto:onderzoeksupport@hu.nl?subject=Toegang%20tot%20GitHub%20voor%20onderzoek">onderzoeksupport@hu.nl</a>.</p>
       <p> <p>Don't forget to include your HU email address, name and institute if applicable. The HU GitHub research environment uses SSO based on your HU email. If you have a GitHub account with a personal email address, link it to your HU email first.
@@ -99,3 +103,4 @@ Do you have research you'd like to share? Or are you curious about what others a
 <p>
 Do you want to use extra GitHub functionalities such as GitHub Copilot or GitHub Codespaces? Click <a href="https://github.com/education"><strong>here</strong></a> and choose the appropriate package. </p>
 <details><summary> Need help applying for the GitHub Education pack?</summary><strong> We are currently working on a guide to walk you through the application process. It will be made available here once complete. </strong></details>
+</details>
