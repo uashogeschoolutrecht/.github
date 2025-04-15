@@ -68,7 +68,7 @@ Wil jij gebruik maken van de extra functionaliteiten van github zoals GitHubCopi
 </summary>
 <a href="https://www.internationalhu.com/">
     <p align="center">
-        <img width="50%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/HUlogoENG">
+        <img width="50%" height="80%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/HUlogoENG_RGB_rdbl_lg.png">
     </p>
 </a>
 <br>
