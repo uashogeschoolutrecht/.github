@@ -1,4 +1,4 @@
-# Welkom bij HU GitHub - Onderzoek!
+# Welkom bij HU GitHub - Onderzoek
 
 <!--
 
