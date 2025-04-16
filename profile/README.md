@@ -29,11 +29,11 @@ Heb je zelf een onderzoek dat je wilt delen? Of ben je benieuwd waar anderen mee
 ### Toegang krijgen tot HU GitHub - Onderzoek
 
 <p><details>
-      <summary>:key: Ik ben onderzoeker bij de HU en ik wil toegang tot de <strong>GitHub voor onderzoek</strong>.</summary>
+      <summary>:key: Ik ben onderzoeker bij de HU en ik wil toegang tot <strong>GitHub voor onderzoek</strong>.</summary>
       <br>
-      <ul><p>Om toegang te krijgen tot de <a href="https://github.com/uashogeschoolutrecht"> <strong>HU GitHub voor onderzoek</strong></a> stuur een mail naar 
+      <ul><p>Om toegang te krijgen tot <a href="https://github.com/uashogeschoolutrecht"> <strong>HU GitHub voor onderzoek</strong></a> kan je een e-mail sturen naar 
       <a href="mailto:onderzoeksupport@hu.nl?subject=Toegang%20tot%20GitHub%20voor%20onderzoek"> onderzoeksupport@hu.nl</a>. </p>
-      <p> Vergeet niet om uw HU e-mailadres, naam en indien van toepassing het instituut te vermelden. De HU GitHub onderzoeksomgeving maakt gebruik van SSO op basis van het HU e-mailadres. Heeft u een github account met een persoonlijk e-mailadres, koppel dan eerst uw account met het HU e-mailadres.
+      <p> Vergeet niet om je HU e-mailadres en naam te vermelden. De HU GitHub onderzoeksomgeving maakt gebruik van SSO op basis van het HU e-mailadres. Heb je een GitHUb account met een persoonlijk e-mailadres, koppel dan eerst je account met het HU e-mailadres.
       </p>
       </ul>
     </details>
