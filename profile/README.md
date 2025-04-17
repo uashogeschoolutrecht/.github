@@ -10,7 +10,7 @@
 <br>
 <p>Welcome at GitHub@HogeschoolUtrecht! At Hogeschool Utrecht, we believe that with open minds, open attitudes and open science, we can create solutions that positively impact us all. 
 
-At HU, we believe that research becomes stronger through collaboration and openness. This GitHub is the place where researchers, partners and students develop and share research code, software, and other.
+At HU, we believe that research becomes stronger through collaboration and openness. This GitHub is the place where researchers, partners and students develop and share research code, software, and more!
 
 Do you have research you'd like to share? Or are you curious about what others are working on? Feel free to look around, join, ask questions, or start your own project. Together, we make research open, relevant, and valuable for everyone.
 </p>
