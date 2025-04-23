@@ -40,5 +40,6 @@ Do you have research you'd like to share? Or are you curious about what others a
 ### GitHub Education packages for students, teachers and researchers
 <p>
 Do you want to use extra GitHub functionalities such as GitHub Copilot or GitHub Codespaces? Click <a href="https://github.com/education"><strong>here</strong></a> and choose the appropriate package. </p>
-<details><summary> Need help applying for the GitHub Education pack?</summary> Click<a href="https://github.com/uashogeschoolutrecht/.github/blob/main/docs/GitHub_EducationManual.md"> Here </a>for a full manual in dutch. English coming soon</details>
+<details><summary> Need help applying for the GitHub Education pack?</summary> Click<a href="https://github.com/uashogeschoolutrecht/.github/blob/main/docs/GitHub_EducationManual.md"> Here </a>for a manual in Dutch.<br> 
+    Click <a href="https://github.com/uashogeschoolutrecht/.github/blob/main/docs/GitHub_EducationManual_ENG.md">Here </a> for a manual in English.</details>
 </details>
