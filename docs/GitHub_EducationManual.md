@@ -8,6 +8,7 @@ Dit document is ter ondersteuning voor het aanvragen van "GitHub Education packa
    
     <strong>Let Op!</strong> Als je een account gaat aanmaken je HU emailadres, dit is nodig voor het aanvragen van GitHub Education. 
     <br>Heb je al een account maar je prive email gebruikt? Maak dan of een nieuw account aan met je HU emailadres of koppel je HU emailadres aan je ‘prive’ GitHub account. Hier zitten wel extra stappen aan verbonden voor het aanvragen van GitHub for Teachers.
-3. Kies voor Teachers, ook wanneer je onderzoeker bent bij de HU.
+3. Kies voor Teachers, ook als onderzoeker bent bij de HU.
+   <p align="center"><img width="50%" height="50%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/github_ed_img/teacher_join.PNG"></p>
 4. 
 
