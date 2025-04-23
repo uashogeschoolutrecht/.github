@@ -1,4 +1,4 @@
-### How To Apply for GitHub Education (Teachers)
+### Hoe vraag ik GitHub Education (Teachers) aan
 Dit document is ter ondersteuning voor het aanvragen van "GitHub Education package for teachers", ook als onderzoeker van de HU kan je hier gebruik van maken.<p>
 <br><strong>NOTE:</strong> Het is handig om verbonden te zijn met het HU netwerk omdat je locatie ook gecontroleerd wordt tijdens de aanvraag.
 </p>
@@ -21,3 +21,4 @@ Dit document is ter ondersteuning voor het aanvragen van "GitHub Education packa
 6. Klink nu op de knop <strong>Share Location</strong> dit zal een popup openen zoals in de afbeelding hieronder. klik hier op  <strong>"Allow"</strong><p align="center"><img width="50%" height="50%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/github_ed_img/allow_location_popup.PNG"></p>
 7. Nu kan je op <strong> Continue</strong> klikken, zoals op de afbeelding hier onder.<p align="center"><img width="50%" height="50%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/github_ed_img/continue_popup.PNG"></p>
 8. Dit opent het volgende window, zoals in de afbeelding hieronder. Het beste kan je hier een kopie uploaden van je werknemerskaart met het HU logo & naam. Zie ook voorbeeld afbeelding gebruikt bij een aanvraag <strong>Let op in het voorbeeld zijn de naam en kaart nummer weggehaald.</strong><em> Het kaartnr lijkt niet altijd nodig te zijn dit zal ook afhangen  van de kwaliteit van de foto.</em><p align="center"><img align="left"><img width="48%" height="48%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/github_ed_img/id_check.png"></img><img align="right"><img width="48%" height="48%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/github_ed_img/id_example_image.JPG"></img></p>
+9. Je aanvraag is nu compleet! Je kan nu meteen zien of het is gelukt. Zoals in de afbeelding hieronder. <p align="center"><img width="50%" height="50%" src="https://github.com/uashogeschoolutrecht/.github/blob/main/images/github_ed_img/done_2.png"></p> 
